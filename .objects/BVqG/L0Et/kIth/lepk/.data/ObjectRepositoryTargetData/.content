@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v67DB4MmWE6kcZqOMQayoQ" Reference="6uCXLQjGpkOcPqh8B8LSTg/lepkGoTZfkOYKUXfN2M5lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/find" DesignTimeRectangle="84, 619, 108, 160" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='ipc-lockup-overlay__screen' parentid='__next' tag='DIV' /&gt;" Guid="99b32959-991c-4cd2-88a7-f96c0316c324" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find - IMDb' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a06e7716ab64d71eb1287b16edd4a50d.jpg" xmlns="">0J2AVugIeh0me6879JOa41A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome IMDb Ratings, Reviews, and Where to Wa",
+  "Type": "Screen",
+  "Id": "kIthlCbsI0uYnBjmzUJZQw",
+  "Reference": "6uCXLQjGpkOcPqh8B8LSTg/kIthlCbsI0uYnBjmzUJZQw",
+  "ParentRef": "6uCXLQjGpkOcPqh8B8LSTg/L0EtXVgtt0q5UwReJAfieQ",
+  "Created": "2026-09-27T13:06:23.2042169Z",
+  "Updated": "2026-09-27T13:06:23.2042169Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
